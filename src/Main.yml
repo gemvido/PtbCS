@@ -1,4 +1,4 @@
-serverAddress: gemvido/cs.msgeng
+serverAddress: gemvido/PtbCS.msgeng
 disabled: false
 serverName: Chat Server
 serverUrl: https://github.com/gemvido/PtbCS/tree/main/server.msgeng
