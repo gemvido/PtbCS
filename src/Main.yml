@@ -2,4 +2,4 @@ serverAddress: gemvido/PtbCS.msgeng
 disabled: false
 serverName: MessageEngine PTB ChatServer
 serverUrl: https://github.com/gemvido/PtbCS/tree/main/server.msgeng
-version: v0.1.4-PTB
+version: v0.1.6-PTB
